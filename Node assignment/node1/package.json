@@ -1,0 +1,20 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/164469-Urvi/Assignments.git"
+  },
+  "author": "urvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/164469-Urvi/Assignments/issues"
+  },
+  "homepage": "https://github.com/164469-Urvi/Assignments#readme",
+  "description": ""
+}
