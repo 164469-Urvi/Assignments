@@ -1,0 +1,69 @@
+body{
+font-family: arial,Helvetica,sans-sarif ;
+background-color:yellow;
+font-size:30px;
+}
+.container{
+margin:auto;
+width:70%;
+overflow:hidden;
+}
+header{
+padding-top:30px;
+min-height:70px;
+}
+header #h2{
+color:green;
+
+}
+header #h2 h1{
+float:left;
+margin:0;
+padding:0;
+}
+header a{
+color:black;
+text-decoration:none;
+font-size:20px;
+padding:0;
+margin:0;
+}
+header ul{
+margin:0;
+padding:0;
+}
+header li {
+float:left;
+display:inline;
+padding:0 20px 0 0;
+margin:0;
+}
+header nav{
+float:right;
+margin-top:0;
+padding:0;
+}
+#showcase
+{
+min-height:400px;
+margin:auto;
+background:url("pizza.jpg") no-repeat 0 ;
+background-size:1000px;
+}
+#showcase h2
+{
+color:white;
+text-align:center;
+}
+#showcase p
+{
+color:white;
+text-align:center;
+}
+#main{
+border:10px solid green;
+margin:10px;
+padding:10px;
+width:500px;
+background-color:white;
+}
