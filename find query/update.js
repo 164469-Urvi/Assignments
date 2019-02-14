@@ -1,0 +1,3 @@
+db.movie.update({"title" : "The Hobbit: The Desolation of Smaug "},{$set:{"synopsis" : "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring."}});
+db.movie.update({"title":" Pulp Fiction"},{$set:{"actors":["Samuel L. Jackson","Amy Jackson"]}});
+db.movie.update({"title":" Pulp Fiction"},{$addToSet:{"actors":"Samuel L.Dsouza"}});
