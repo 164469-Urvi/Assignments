@@ -1,0 +1,15 @@
+{
+  "name": "assignment-2",
+  "version": "1.0.0",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "urvi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
